@@ -1,0 +1,205 @@
+{
+  "customTables": [
+    {
+      "id": 1,
+      "orders": []
+    },
+    {
+      "id": 2,
+      "orders": []
+    },
+    {
+      "id": 3,
+      "orders": []
+    },
+    {
+      "id": 4,
+      "orders": []
+    },
+    {
+      "id": 5,
+      "orders": []
+    },
+    {
+      "id": 6,
+      "orders": []
+    },
+    {
+      "id": 7,
+      "orders": []
+    },
+    {
+      "id": 8,
+      "orders": []
+    },
+    {
+      "id": 9,
+      "orders": []
+    },
+    {
+      "id": 10,
+      "orders": []
+    },
+    {
+      "id": 11,
+      "orders": []
+    },
+    {
+      "id": 12,
+      "orders": []
+    }
+  ],
+  
+    "categories": [
+        {
+            "name": "bebidas",
+            "subcategories": [
+                {
+                    "name": "SinAlcohol",
+                    "items": [
+                        {
+                            "item": "Coca-Cola",
+                            "note": "",
+                            "price": 1.0
+                        },
+                        {
+                            "item": "Agua",
+                            "note": "",
+                            "price": 1.0
+                        },
+                        {
+                            "item": "Zumo Piña",
+                            "note": "",
+                            "price": 1.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Cocteles",
+                    "items": [
+                        {
+                            "item": "Margarita",
+                            "note": "",
+                            "price": 1.0
+                        },
+                        {
+                            "item": "Piña Colada",
+                            "note": "",
+                            "price": 1.0
+                        },
+                        {
+                            "item": "Mojito",
+                            "note": "",
+                            "price": 1.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Alcohol",
+                    "items": [
+                        {
+                            "item": "Cerveza",
+                            "note": "",
+                            "price": 1.0
+                        },
+                        {
+                            "item": "TintoVerano",
+                            "note": "",
+                            "price": 1.0
+                        },
+                        {
+                            "item": "Rosado",
+                            "note": "",
+                            "price": 1.0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "comidas",
+            "subcategories": [
+                {
+                    "name": "Entrantes",
+                    "items": [
+                        {
+                            "item": "Bravas",
+                            "note": "",
+                            "price": 1.0
+                        },
+                        {
+                            "item": "Nachos",
+                            "note": "",
+                            "price": 1.0
+                        },
+                        {
+                            "item": "Lagrimitas",
+                            "note": "",
+                            "price": 1.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Burguers",
+                    "items": [
+                        {
+                            "item": "Clasica",
+                            "note": "",
+                            "price": 1.0
+                        },
+                        {
+                            "item": "Pollo",
+                            "note": "",
+                            "price": 1.0
+                        },
+                        {
+                            "item": "Vegan",
+                            "note": "",
+                            "price": 1.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Carne",
+                    "items": [
+                        {
+                            "item": "Secreto",
+                            "note": "",
+                            "price": 1.0
+                        },
+                        {
+                            "item": "Solomillo",
+                            "note": "",
+                            "price": 1.0
+                        },
+                        {
+                            "item": "CostillaBBQ",
+                            "note": "",
+                            "price": 1.0
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandwich",
+                    "items": [
+                        {
+                            "item": "JamónQueso",
+                            "note": "",
+                            "price": 1.0
+                        },
+                        {
+                            "item": "Club",
+                            "note": "",
+                            "price": 1.0
+                        },
+                        {
+                            "item": "Vegan",
+                            "note": "",
+                            "price": 1.0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
