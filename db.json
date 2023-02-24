@@ -1,7 +1,7 @@
   {  
     "categories": [
         {
-            "name": "bebidas",
+            "name": "BEBIDAS",
             "subcategories": [
                 {
                     "name": "SinAlcohol",
@@ -75,7 +75,7 @@
             ]
         },
         {
-            "name": "comidas",
+            "name": "COMIDAS",
             "subcategories": [
                 {
                     "name": "Entrantes",
