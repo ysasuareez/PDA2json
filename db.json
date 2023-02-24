@@ -4,69 +4,69 @@
             "name": "BEBIDAS",
             "subcategories": [
                 {
-                    "name": "SinAlcohol",
+                    "name": "SIN-ALCOHOL",
                     "items": [
                         {
                             "id": 1,
-                            "item": "Coca-Cola",
+                            "item": "COKE",
                             "note": "",
                             "price": 1.0
                         },
                         {
                             "id": 2,
-                            "item": "Agua",
+                            "item": "AGUA",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id":3,
-                            "item": "Zumo Piña",
+                            "item": "ZPIÑA",
                             "note": "",
                             "price": 1.0
                         }
                     ]
                 },
                 {
-                    "name": "Cocteles",
+                    "name": "CÓCTEL",
                     "items": [
                         {
                           "id": 4,
-                            "item": "Margarita",
+                            "item": "MARGARITA",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 5,
-                            "item": "Piña Colada",
+                            "item": "PÑCOLADA",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 5,
-                            "item": "Mojito",
+                            "item": "MOJITO",
                             "note": "",
                             "price": 1.0
                         }
                     ]
                 },
                 {
-                    "name": "Alcohol",
+                    "name": "ALCOHOL",
                     "items": [
                         {
                           "id": 6,
-                            "item": "Cerveza",
+                            "item": "CERVEZA",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 7,
-                            "item": "TintoVerano",
+                            "item": "TV",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 8,
-                            "item": "Rosado",
+                            "item": "VROSADO",
                             "note": "",
                             "price": 1.0
                         }
@@ -78,23 +78,23 @@
             "name": "COMIDAS",
             "subcategories": [
                 {
-                    "name": "Entrantes",
+                    "name": "ENTRANTES",
                     "items": [
                         {
                           "id": 9,
-                            "item": "Bravas",
+                            "item": "BRAVAS",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 10,
-                            "item": "Nachos",
+                            "item": "NACHOS",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 11,
-                            "item": "Lagrimitas",
+                            "item": "LAGRITAS",
                             "note": "",
                             "price": 1.0
                         }
@@ -105,65 +105,65 @@
                     "items": [
                         {
                           "id": 12,
-                            "item": "Clasica",
+                            "item": "CLASICA",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 13,
-                            "item": "Pollo",
+                            "item": "POLLO",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 14,
-                            "item": "Vegan",
+                            "item": "VEGAN",
                             "note": "",
                             "price": 1.0
                         }
                     ]
                 },
                 {
-                    "name": "Carne",
+                    "name": "CARNE",
                     "items": [
                         {
                           "id": 15,
-                            "item": "Secreto",
+                            "item": "SECRET",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 16,
-                            "item": "Solomillo",
+                            "item": "SOLOMILLO",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 17,
-                            "item": "CostillaBBQ",
+                            "item": "COST-BBQ",
                             "note": "",
                             "price": 1.0
                         }
                     ]
                 },
                 {
-                    "name": "Sandwich",
+                    "name": "SANDW",
                     "items": [
                         {
                           "id": 18,
-                            "item": "JamónQueso",
+                            "item": "JyQ",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 19,
-                            "item": "Club",
+                            "item": "CLUB",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 20,
-                            "item": "Vegan",
+                            "item": "VEGAN",
                             "note": "",
                             "price": 1.0
                         }
