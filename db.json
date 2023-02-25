@@ -8,19 +8,19 @@
                     "items": [
                         {
                             "id": 1,
-                            "item": "COKE",
+                            "name": "COKE",
                             "note": "",
                             "price": 1.0
                         },
                         {
                             "id": 2,
-                            "item": "AGUA",
+                            "name": "AGUA",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id":3,
-                            "item": "ZPIÑA",
+                            "name": "ZPIÑA",
                             "note": "",
                             "price": 1.0
                         }
@@ -31,19 +31,19 @@
                     "items": [
                         {
                           "id": 4,
-                            "item": "MARGARITA",
+                            "name": "MARGARITA",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 5,
-                            "item": "PÑCOLADA",
+                            "name": "PÑCOLADA",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 5,
-                            "item": "MOJITO",
+                            "name": "MOJITO",
                             "note": "",
                             "price": 1.0
                         }
@@ -54,19 +54,19 @@
                     "items": [
                         {
                           "id": 6,
-                            "item": "CERVEZA",
+                            "name": "CERVEZA",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 7,
-                            "item": "TV",
+                            "name": "TV",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 8,
-                            "item": "VROSADO",
+                            "name": "VROSADO",
                             "note": "",
                             "price": 1.0
                         }
@@ -82,19 +82,19 @@
                     "items": [
                         {
                           "id": 9,
-                            "item": "BRAVAS",
+                            "name": "BRAVAS",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 10,
-                            "item": "NACHOS",
+                            "name": "NACHOS",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 11,
-                            "item": "LAGRITAS",
+                            "name": "LAGRITAS",
                             "note": "",
                             "price": 1.0
                         }
@@ -105,13 +105,13 @@
                     "items": [
                         {
                           "id": 12,
-                            "item": "CLASICA",
+                            "name": "CLASICA",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 13,
-                            "item": "POLLO",
+                            "name": "POLLO",
                             "note": "",
                             "price": 1.0
                         },
@@ -128,19 +128,19 @@
                     "items": [
                         {
                           "id": 15,
-                            "item": "SECRET",
+                            "name": "SECRET",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 16,
-                            "item": "SOLOMILLO",
+                            "name": "SOLOMILLO",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 17,
-                            "item": "COST-BBQ",
+                            "name": "COST-BBQ",
                             "note": "",
                             "price": 1.0
                         }
@@ -151,37 +151,37 @@
                     "items": [
                         {
                           "id": 18,
-                            "item": "JyQ",
+                            "name": "JyQ",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 19,
-                            "item": "CLUB",
+                            "name": "CLUB",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 20,
-                            "item": "VEGAN",
+                            "name": "VEGAN",
                             "note": "",
                             "price": 1.0
                         },
                       {
                           "id": 21,
-                            "item": "JyQ",
+                            "name": "JyQ",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 22,
-                            "item": "CLUB",
+                            "name": "CLUB",
                             "note": "",
                             "price": 1.0
                         },
                         {
                           "id": 23,
-                            "item": "VEGAN",
+                            "name": "VEGAN",
                             "note": "",
                             "price": 1.0
                         }
